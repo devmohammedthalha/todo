@@ -1,0 +1,5 @@
+1. Meeting at 11 PM - Prepare a single page list
+2. To get the refined prompt for the device_qualification - follow up
+3. To test with the local models for device Qualification
+Task: 
+Test local AI models, specifically Qwen and Mistral, for device qualification, with a focus on evaluating their performance and accuracy when processing patient documentation. - 300 mins
